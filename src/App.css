@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#wholeContainer{
+  min-height: 100vh;
+  padding-left: 35vw;
+  background-color: rgb(43, 40, 40);
+  color: white;
+}
+
+input{
+  margin: 20px;
+  height: 30px;
+  width: 300px;
+  border-radius: 5px;
+  padding-left: 5px;
+  font-size: 90%;
+}
+
+p{
+  margin: 18px;
+}
